@@ -12,5 +12,7 @@
 | 7 | Njoku Chukwuemeka | 2020/244400 | Programming and Debugging|
 | 8 | Atuanya David Chiagozie  | 2020/244380 | Code Review and Debugging|
 | 9 | Ugwu Victor Chidiebere   | 2020/244358 | Code Review and Report |
-| 10| Ukachi Amarachi Mary-Grace| 2020/242918 | Code Review|
-| 11| Dickson Gift Onu | 2020/243910 | Code Review|
+| 10| Ukachi Amarachi Mary-Grace| 2020/242918 | Code Review |
+
+| 11| Dickson Gift Onu | 2020/243910 |Code Review|
+| 12| Eze Precious Tochi| 2020/244319 | To do code review |
